@@ -1,14 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "LSLhoddFoFrjQvsMjhvj8nZMXi4tJ31yIpT/Ur0olc0ik8yKSsPrCXc5Yw788cT0A0f/6DKVZnDAL25gYkzeeQ==",
+  "dgSpecHash": "9PCU4VrA/tyzc6VKn4pl3x1Ty5LoDicpp/Todi+DOCsxF3A9DO5ME7CtBXsG/5YNIQ85aSSpEqD49A1JhX7jOw==",
   "success": true,
   "projectFilePath": "/Users/yunjiejin/Projects/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/yunjiejin/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/yunjiejin/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/yunjiejin/.nuget/packages/microsoft.data.sqlite.core/5.0.4/microsoft.data.sqlite.core.5.0.4.nupkg.sha512",
     "/Users/yunjiejin/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/Users/yunjiejin/.nuget/packages/microsoft.entityframeworkcore/5.0.4/microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
     "/Users/yunjiejin/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.4/microsoft.entityframeworkcore.abstractions.5.0.4.nupkg.sha512",
     "/Users/yunjiejin/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.4/microsoft.entityframeworkcore.analyzers.5.0.4.nupkg.sha512",
+    "/Users/yunjiejin/.nuget/packages/microsoft.entityframeworkcore.design/5.0.4/microsoft.entityframeworkcore.design.5.0.4.nupkg.sha512",
     "/Users/yunjiejin/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.4/microsoft.entityframeworkcore.relational.5.0.4.nupkg.sha512",
     "/Users/yunjiejin/.nuget/packages/microsoft.entityframeworkcore.sqlite/5.0.4/microsoft.entityframeworkcore.sqlite.5.0.4.nupkg.sha512",
     "/Users/yunjiejin/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/5.0.4/microsoft.entityframeworkcore.sqlite.core.5.0.4.nupkg.sha512",

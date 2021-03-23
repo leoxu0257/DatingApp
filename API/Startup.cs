@@ -31,7 +31,7 @@ namespace API
         {
             services.AddDbContext<DataContext>(options =>
             {
-                options.UseSqlite("Connection String");
+                options.UseSqlite(_config.GetConnectionString("DefaultConnection"));
             });
 
             services.AddControllers();
