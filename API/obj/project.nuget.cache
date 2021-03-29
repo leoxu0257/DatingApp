@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9PCU4VrA/tyzc6VKn4pl3x1Ty5LoDicpp/Todi+DOCsxF3A9DO5ME7CtBXsG/5YNIQ85aSSpEqD49A1JhX7jOw==",
+  "dgSpecHash": "HG+rOPzWYIpcisxwHXKIqAO4Am7OVzWlGp8lzUl2e2UUi/no0gYFVs/ZakRD4Ija11EsZVfYn9AzM8TFsj9VbA==",
   "success": true,
   "projectFilePath": "/Users/yunjiejin/Projects/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,9 @@
     "/Users/yunjiejin/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "/Users/yunjiejin/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
     "/Users/yunjiejin/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/yunjiejin/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.9.0/microsoft.identitymodel.jsonwebtokens.6.9.0.nupkg.sha512",
+    "/Users/yunjiejin/.nuget/packages/microsoft.identitymodel.logging/6.9.0/microsoft.identitymodel.logging.6.9.0.nupkg.sha512",
+    "/Users/yunjiejin/.nuget/packages/microsoft.identitymodel.tokens/6.9.0/microsoft.identitymodel.tokens.6.9.0.nupkg.sha512",
     "/Users/yunjiejin/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/yunjiejin/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.4/sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "/Users/yunjiejin/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
@@ -38,7 +41,9 @@
     "/Users/yunjiejin/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/Users/yunjiejin/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/yunjiejin/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "/Users/yunjiejin/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+    "/Users/yunjiejin/.nuget/packages/system.identitymodel.tokens.jwt/6.9.0/system.identitymodel.tokens.jwt.6.9.0.nupkg.sha512",
+    "/Users/yunjiejin/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/yunjiejin/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
